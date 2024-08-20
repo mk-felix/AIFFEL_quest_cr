@@ -1,6 +1,6 @@
 # AIFFEL_quest_cr
 AIFFEL 퀘스트용 레포지터리입니다.
-'''bash
+```bash
 AIFFEL_quest_cr
 |-- MainQuest
 |  |-- Quest01
@@ -9,4 +9,4 @@ AIFFEL_quest_cr
 |  |-- Quest02
 |
 |-- Exploration
-'''
+```
