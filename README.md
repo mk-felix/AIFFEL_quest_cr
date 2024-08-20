@@ -2,12 +2,12 @@
 
 ```bash
 
-+AIFFEL_quest_cr
++--- AIFFEL_quest_cr
 |
-+-- MainQuest
-|   +-- Quest01
-|   \-- Quest02
++--- MainQuest
+|   +--- Quest01
+|   \--- Quest02
 |
-\-- Exploration
+\--- Exploration
 
 ```
