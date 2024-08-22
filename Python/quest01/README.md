@@ -8,7 +8,7 @@
     - 회문인지 아닌지 여부를 판단 가능
     - 문제 조건의 뒤집어진 단어가 출력되지는 않음
     - 각 조건에 맞게 회문 확인 가능
-      ![q01](./aiffel/fork/AIFFEL_quest_prt/Python/quest01/q01.png)
+      ![initial](./aiffel/fork/AIFFEL_quest_prt/Python/quest01/q01.png)
     
 - [o]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
